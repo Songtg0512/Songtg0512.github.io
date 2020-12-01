@@ -26,7 +26,7 @@ before_install:
   # - yarn remove hexo-renderer-marked
   - yarn add hexo-renderer-kramed
   - yarn add hexo-asset-image
-  - yarn add hexo-generator-searchdb
+  # - yarn add hexo-generator-searchdb
   - yarn add hexo-generator-feed
   # - yarn add hexo-related-popular-posts
   - yarn add hexo-symbols-count-time

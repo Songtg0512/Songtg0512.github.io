@@ -7,17 +7,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 用户名
-subtitle: 用户名
-description: 用户名
+title: Songtg0512
+subtitle: Songtg0512
+description: Songtg0512
 keywords:
-author: "用户名"
+author: "Songtg0512"
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://用户名.github.io
+url: http://Songtg0512.github.io
 root: /
 permalink: posts/:url.html
 permalink_defaults:
@@ -104,7 +104,7 @@ theme: pure
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   - type: git
-    repo: https://REPO_TOKEN@github.com/用户名/用户名.github.io.git
+    repo: https://REPO_TOKEN@github.com/Songtg0512/Songtg0512.github.io.git
     branch: master
 
 feed:
@@ -224,7 +224,7 @@ share:
 
 # Github
 github:
-  username: 用户名  # github username
+  username: Songtg0512  # github username
 
 # Comment
 # Gitment
@@ -255,7 +255,7 @@ comment:
   # https://api.douban.com/v2/movie/subject/:id 单个电影信息
   # https://api.douban.com/v2/movie/search?q={text} 电影搜索
 douban:
-  user: # 豆瓣用户名
+  user: # 豆瓣Songtg0512
   start: 0 # 从哪一条记录开始
   count: 100 # 获取豆瓣书单数据条数
 
@@ -292,17 +292,17 @@ profile:
   enabled: true # Whether to show profile bar
   avatar: /images/config/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 用户名
+  author: Songtg0512
   author_title: Web Developer & Designer
   author_description: 个人简介。
   location: Shenzhen, China
-  follow: https://github.com/用户名
+  follow: https://github.com/Songtg0512
   # Social Links
   social:
     links:
-      github: https://github.com/用户名
-      # weibo: http://weibo.com/用户名
-      # twitter: https://twitter.com/用户名
+      github: https://github.com/Songtg0512
+      # weibo: http://weibo.com/Songtg0512
+      # twitter: https://twitter.com/Songtg0512
       # facebook: /
       # dribbble: /
       # behance: https://www.behance.net/cofess
@@ -319,7 +319,7 @@ profile:
     平面设计: ★★★☆☆
   # My Personal Links
   links:
-    Github: https://github.com/用户名
+    Github: https://github.com/Songtg0512
     # Blog: http://blog.cofess.com
     # 微博: http://weibo.com/cofess
     # 花瓣: http://huaban.com/cofess
@@ -334,7 +334,7 @@ profile:
   # My Personal Works
   works:
     name:
-      link: http://用户名.github.io
+      link: http://Songtg0512.github.io
       date: 2020
   # My Personal Projects
   projects:

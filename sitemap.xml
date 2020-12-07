@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://songtg0512.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-12-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://songtg0512.github.io/about/index.html</loc>
+    
+    <lastmod>2020-12-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://songtg0512.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-12-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://songtg0512.github.io/posts/hello_url.html</loc>
+    
+    <lastmod>2020-12-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://songtg0512.github.io/posts/hello_url.html</loc>
+    
+    <lastmod>2020-12-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://songtg0512.github.io/404.html</loc>
+    
+    <lastmod>2020-12-07</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://songtg0512.github.io/</loc>
+    <lastmod>2020-12-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://songtg0512.github.io/tags/%E6%A0%87%E7%AD%BE1/</loc>
+    <lastmod>2020-12-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://songtg0512.github.io/tags/%E6%A0%87%E7%AD%BE2/</loc>
+    <lastmod>2020-12-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://songtg0512.github.io/categories/%E5%88%86%E7%B1%BB1/</loc>
+    <lastmod>2020-12-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://songtg0512.github.io/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/</loc>
+    <lastmod>2020-12-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
